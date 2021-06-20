@@ -12,7 +12,7 @@ how to run this
 
 `npm start `
 
-this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvements like UI Component Testing using JEST, Mock api call using Sinon
+this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvements like Make a global Store using Redux, UI Component Testing using JEST, Mock api call using Sinon
 
 # Basic Description
 
