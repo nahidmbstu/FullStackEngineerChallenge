@@ -2,11 +2,11 @@
 
 # Prerequisites
 
-**_ before Run, install node js, npm, mongodb in your machine _**
+before Running , install node js, npm, mongodb in your machine
 
 # frontend contain Web Front End in ReactJS
 
-**_ how to run this _**
+how to run this
 
 `npm i `
 
@@ -14,7 +14,7 @@
 
 this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvements like UI Component Testing using JEST, Mock api call using Sinon
 
-**_ Basic Description _**
+# Basic Description
 
 Admin and User/Employees will login into their account . Authention needs Implementation in frontend.
 
@@ -30,18 +30,19 @@ There is lot of scope for Improvements like Testing End Points using JEST, Mocha
 
 Using Docker to Containerised this as a microservice.
 
-**_ how to run this _**
+how to run this
 
 start mongodb
 
 `mongod `
 
 then
+
 `npm i `
 
 `npm start `
 
-**_ Basic Description _**
+# Basic Description
 
 Demo Authentication is made but not connected to frontend
 
