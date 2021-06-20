@@ -6,17 +6,17 @@ The Purpose of this Challenge is to build a fullstack system to demo Both front 
 
 # Prerequisites
 
-**_ before Run, install node js, npm, mongodb in your machine _**
+before Run, install node js, npm, mongodb in your machine
 
 # frontend contain Web Front End in ReactJS
 
-**_ how to run this _**
+how to run this
 
 `npm start `
 
 this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvements like Make a global Store using Redux, UI Component Testing using JEST, Mock api call using Sinon
 
-**_ Basic Description _**
+Basic Description
 
 Admin and User/Employees will login into their account . Authention needs Implementation in frontend.
 
@@ -30,7 +30,7 @@ Admin Will assign Employees for Review.
 
 There is lot of scope for Improvements like Testing End Points using JEST, Mocha, supertest and Using Typescript , Using Docker to Containerised this as a microservice.
 
-**_ how to run this _**
+how to run this
 
 start mongodb
 
