@@ -10,7 +10,7 @@
 
 `npm start `
 
-this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvement.
+this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvements like Make a global Store using Redux, UI Component Testing using JEST, Mock api call using Sinon
 
 **_ Basic Description _**
 
@@ -23,6 +23,8 @@ Admin Will View Employee Reviews , Add , Delete Them
 Admin Will assign Employees for Review.
 
 # backend contains Application service in Node Js
+
+There is lot of scope for Improvements like Testing End Points using JEST, Mocha, supertest and Using Typescript , Using Docker to Containerised this as a microservice.
 
 **_ how to run this _**
 
