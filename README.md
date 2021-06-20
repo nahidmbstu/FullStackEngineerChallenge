@@ -26,9 +26,7 @@ Admin Will assign Employees for Review.
 
 # backend contains Application service in Node Js
 
-There is lot of scope for Improvements like Testing End Points using JEST, Mocha, supertest and Using Typescript ,
-
-Using Docker to Containerised this as a microservice.
+There is lot of scope for Improvements like Testing End Points using JEST, Mocha, supertest and Using Typescript , Using Docker to Containerised this as a microservice.
 
 how to run this
 
