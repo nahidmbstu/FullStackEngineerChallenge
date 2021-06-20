@@ -2,19 +2,17 @@
 
 # Prerequisites
 
-before Running , install node js, npm, mongodb in your machine
+**_ before Run, install node js, npm, mongodb in your machine _**
 
 # frontend contain Web Front End in ReactJS
 
-how to run this
-
-`npm i `
+**_ how to run this _**
 
 `npm start `
 
-this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvements like Make a global Store using Redux, UI Component Testing using JEST, Mock api call using Sinon
+this is not a full solution , but a demo version . static data is used in many places with actual API call.There is lot of scope for Improvement.
 
-# Basic Description
+**_ Basic Description _**
 
 Admin and User/Employees will login into their account . Authention needs Implementation in frontend.
 
@@ -24,11 +22,9 @@ Admin Will View Employee Reviews , Add , Delete Them
 
 Admin Will assign Employees for Review.
 
-# backend contains Application service in Express Js
+# backend contains Application service in Node Js
 
-There is lot of scope for Improvements like Testing End Points using JEST, Mocha, supertest and Using Typescript , Using Docker to Containerised this as a microservice.
-
-how to run this
+**_ how to run this _**
 
 start mongodb
 
@@ -36,16 +32,12 @@ start mongodb
 
 then
 
-`npm i `
-
 `npm start `
 
-# Basic Description
+**_ Basic Description _**
 
 Demo Authentication is made but not connected to frontend
 
 User Service / Routes will add Employees , return All
 
 Post Service / Routes will View All Reviews , Add Review
-
-thanks !!
