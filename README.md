@@ -24,7 +24,7 @@ Admin Will View Employee Reviews , Add , Delete Them
 
 Admin Will assign Employees for Review.
 
-# backend contains Application service in Node Js
+# backend contains Application service in Express Js
 
 There is lot of scope for Improvements like Testing End Points using JEST, Mocha, supertest and Using Typescript , Using Docker to Containerised this as a microservice.
 
@@ -47,3 +47,5 @@ Demo Authentication is made but not connected to frontend
 User Service / Routes will add Employees , return All
 
 Post Service / Routes will View All Reviews , Add Review
+
+thanks !!
