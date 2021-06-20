@@ -1,5 +1,9 @@
 # this is the pay pay code Challenge repo
 
+Here is Demo Application of a Review System. Admin will Add Employees and Employees will Give review feedBack about Other Employee's work
+
+The Purpose of this Challenge is to build a fullstack system to demo Both front end and backend work. Here react js useds as front end, and Express js to build a backend system. there is room for Further development.
+
 # Prerequisites
 
 **_ before Run, install node js, npm, mongodb in your machine _**
